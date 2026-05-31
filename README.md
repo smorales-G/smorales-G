@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Santiago Morales Gassmann 👋
 
-<!--
-**smorales-G/smorales-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante avanzado de la Tecnicatura Superior en Desarrollo de Software. Me apasiona aplicar la lógica de programación para resolver problemas, optimizar la gestión de datos y administrar sistemas informáticos de manera eficiente.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** Python, SQL, PHP
+- **Desarrollo Web:** HTML5, CSS3
+- **Entornos y Motores:** Godot Engine
+- **Gestión:** Microsoft Excel (Análisis y administración de datos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados
+* **Sistema de Gestión de Supermercado:** Aplicación enfocada en la automatización de facturación, procesamiento de pagos y control de inventario.
+* **Plataforma de Inscripción Institucional:** Interfaz web funcional para la administración de matrículas de alumnos.
+* **Snake Game:** Proyecto personal de lógica de programación y mecánicas en 2D usando Godot.
+
+### 🌐 Contacto
+- **Email:** smoralesgassmann@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/santiago-morales-gassmann-a7289835a/
